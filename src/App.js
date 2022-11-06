@@ -3,7 +3,7 @@ import './App.css';
 import CyberSquare from './CyberSuqre';
 import Search from './Search';
 
-const content = "Cybersquare professional";
+const content = "Cyber   square professional";
 
 const obj ={"title":"Cybersquare", "name":"monish"};
 const list1=["monish", "athira", "lekha"]
